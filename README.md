@@ -39,3 +39,9 @@ User Interface Halaman Admin
 A. Halaman Login
 Halaman Login adalah halaman yang digunakan untuk mengakses halaman admin, diperlukan username dan password.
 ![gam4](https://github.com/user-attachments/assets/372446ad-9f56-45c5-8e8d-dde5ab7ba7a3)
+B. Halaman Beranda
+Halaman Beranda merupakan halaman yang menampilkan statistik Jumlah Artikel dan Jumlah Gallery.
+![gam5](https://github.com/user-attachments/assets/d50e0c7e-01e5-4553-8197-515a42aea21d)
+C. Halaman Kelola Artikel
+Halaman Kelola Artikel adalah halaman untuk mengelola Artikel dimulai dari Tampil Artikel, Tambah Artikel, Edit Artikel dan Hapus Artikel.
+![gam6](https://github.com/user-attachments/assets/034e2c98-6189-45d8-9994-27a76a5fbae9)
